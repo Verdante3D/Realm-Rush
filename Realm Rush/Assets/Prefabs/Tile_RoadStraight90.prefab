@@ -53,7 +53,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5730994508319811418, guid: 20143e45543a6aa41ab0647a8540d0df, type: 3}
       propertyPath: m_Name
-      value: Tile_RoadStraight_90
+      value: Tile_RoadStraight90
       objectReference: {fileID: 0}
     - target: {fileID: 7539640718985717295, guid: 20143e45543a6aa41ab0647a8540d0df, type: 3}
       propertyPath: m_LocalRotation.w
@@ -74,6 +74,10 @@ PrefabInstance:
     - target: {fileID: 7539640718985717295, guid: 20143e45543a6aa41ab0647a8540d0df, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096011416501792016, guid: 20143e45543a6aa41ab0647a8540d0df, type: 3}
+      propertyPath: isPlacable
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20143e45543a6aa41ab0647a8540d0df, type: 3}
