@@ -10,6 +10,7 @@ public class EnemyMover : MonoBehaviour
     void Start()
     {
         FindPath();
+        ReturnToStart();
         StartCoroutine(FollowPath());
     }
 
