@@ -158,7 +158,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3f4004db5cff55499ca1a4ced278cdc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHitpoints: 5
+  maxHitpoints: 3
   difficultyRamp: 1
 --- !u!114 &3238355487884283214
 MonoBehaviour:
