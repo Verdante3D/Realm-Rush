@@ -22411,14 +22411,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 759738644653358255, guid: b6a05a983e158b14fb3d024aecd9e439, type: 3}
-      propertyPath: destinationCoordinates.x
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 759738644653358255, guid: b6a05a983e158b14fb3d024aecd9e439, type: 3}
-      propertyPath: destinationCoordinates.y
-      value: 2
-      objectReference: {fileID: 0}
     - target: {fileID: 2300097795144864472, guid: b6a05a983e158b14fb3d024aecd9e439, type: 3}
       propertyPath: m_Name
       value: ObjectPool
