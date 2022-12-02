@@ -55,5 +55,9 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile_CoastOutsideCorner270
       objectReference: {fileID: 0}
+    - target: {fileID: 3182539250677209800, guid: edc70c2d33b3c9b439eeed8e0f9b2489, type: 3}
+      propertyPath: isPlacable
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edc70c2d33b3c9b439eeed8e0f9b2489, type: 3}

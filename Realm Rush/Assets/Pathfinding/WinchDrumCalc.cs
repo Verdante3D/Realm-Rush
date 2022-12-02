@@ -4,7 +4,7 @@ public class WinchDrumCalc : MonoBehaviour
 {
 
     [SerializeField] float drumSpindleDia = 20;
-    [SerializeField] float drumFlangeDia = 180;
+    //[SerializeField] float drumFlangeDia = 180;
     [SerializeField] float ropeDia = 2.38f;
     [SerializeField] float flangeWidth = 80;
 
