@@ -21253,7 +21253,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83c60bd6f9a279e4697eff0ea40fef32, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gridSize: {x: 18, y: 18}
+  gridSize: {x: 16, y: 16}
   unityGridSize: 10
 --- !u!4 &2058184840
 Transform:
@@ -22310,7 +22310,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 759738644653358255, guid: b6a05a983e158b14fb3d024aecd9e439, type: 3}
       propertyPath: startCoordinates.x
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 759738644653358255, guid: b6a05a983e158b14fb3d024aecd9e439, type: 3}
       propertyPath: startCoordinates.y
@@ -22318,7 +22318,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 759738644653358255, guid: b6a05a983e158b14fb3d024aecd9e439, type: 3}
       propertyPath: destinationCoordinates.x
-      value: 14
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 759738644653358255, guid: b6a05a983e158b14fb3d024aecd9e439, type: 3}
       propertyPath: destinationCoordinates.y
@@ -22330,7 +22330,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2300097795144864473, guid: b6a05a983e158b14fb3d024aecd9e439, type: 3}
       propertyPath: poolSize
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2300097795144864474, guid: b6a05a983e158b14fb3d024aecd9e439, type: 3}
       propertyPath: m_RootOrder
